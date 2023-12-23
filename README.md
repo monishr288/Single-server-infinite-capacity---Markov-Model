@@ -17,13 +17,13 @@ This is a queuing model in which the arrival is Marcovian and departure distribu
 ![imAGE](2.png)
 
 
-
 ## Experiment:
-
+![image](https://github.com/dharshini-29/Single-server-infinite-capacity---Markov-Model/assets/147474632/8a9cde0c-2d26-497d-85d9-fb2755e18515)
 
  
 ## Program
 Devoloped by: R.Monish
+
 Reg no: 212223220061
 
 ![image](https://github.com/ramjan1729/Single-server-infinite-capacity---Markov-Model/assets/103921593/5f1fd58d-5929-4c51-89ea-4cef009e5bad)
